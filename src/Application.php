@@ -1,6 +1,6 @@
 <?php
 
-namespace myFramework;
+namespace myFrameWork;
 
 use myFrameWork\Support\ServiceProvider;
 

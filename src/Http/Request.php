@@ -1,6 +1,6 @@
 <?php
 
-namespace MyFrameWork\Http;
+namespace myFrameWork\Http;
 
 class Request{
     public static function getMethod()
