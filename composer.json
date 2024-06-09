@@ -1,6 +1,6 @@
 
 {
-    "name": "my/frame-work",
+    "name": "dewbian/frame-work",
     "description": "Heiseon  First framework",
     "type" : "library",
     "version": "0.0.1",
